@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="300" src="https://i.etsystatic.com/9488558/r/il/73b294/954771284/il_1140xN.954771284_7c9t.jpg">
+<img align="center" alt="Coding" width="100%" height="300" src="https://i.postimg.cc/0QCNQqRh/link.jpg)](https://postimg.cc/8JjGK9Cb">
 <h1 align="center">Hi 👋, I'm Qazi Maaz Arshad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
