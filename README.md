@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 - 🌱 I’m currently learning **Android App Development**
 
-- 👨‍💻 All of my projects are available at [https://shortto.com/QaziMaazArshad](https://shortto.com/QaziMaazArshad)
+- 👨‍💻 All of my projects are available at [https://qazimaazarshad.github.io/My-Portfolio/](https://qazimaazarshad.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Web Development**
 
