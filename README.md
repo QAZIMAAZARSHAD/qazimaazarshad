@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **qazimaazarshad@gmail.com**
 
-- 📄 Know about my experience's [https://www.shortto.com/ViewMyResume](https://www.shortto.com/ViewMyResume)
+- 📄 Know about my experience's [https://tinyurl.com/MaazResume](https://tinyurl.com/MaazResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
