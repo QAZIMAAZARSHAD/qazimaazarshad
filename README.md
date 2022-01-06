@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="100%" height="300" src="https://i.postimg.cc/0QCNQqRh/link.jpg)](https://postimg.cc/8JjGK9Cb">
 <h1 align="center">Hi 👋, I'm Qazi Maaz Arshad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qazimaazarshad&label=Profile%20views&color=0e75b6&style=flat" alt="qazimaazarshad" /> </p>
 
