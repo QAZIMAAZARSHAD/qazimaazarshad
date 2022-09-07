@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/qazimaazarshad1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qazimaazarshad1" height="30" width="40" /></a>
+<a href="https://twitter.com/qazimaazarshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qazimaazarshad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/qazi-maaz-arshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="qazi-maaz-arshad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15159026/qazi-maaz-arshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15159026/qazi-maaz-arshad" height="30" width="40" /></a>
 <a href="https://fb.com/qazimaaz.arshad.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="qazimaaz.arshad.3" height="30" width="40" /></a>
