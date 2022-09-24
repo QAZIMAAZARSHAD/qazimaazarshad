@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://qazimaazarshad.github.io/My-Portfolio/](https://qazimaazarshad.github.io/My-Portfolio/)
 
@@ -20,12 +20,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/qazimaazarshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qazimaazarshad" height="30" width="40" /></a>
+<a href="https://qazimaazarshad.github.io/My-Portfolio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/monster.svg" alt="qazimaazarshad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/qazi-maaz-arshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="qazi-maaz-arshad" height="30" width="40" /></a>
+<a href="https://leetcode.com/qazimaazarshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="qazimaazarshad" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/qazimaazarshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="qazimaazarshad" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/qazimaazarshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="qazimaazarshad?hr_r=1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15159026/qazi-maaz-arshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15159026/qazi-maaz-arshad" height="30" width="40" /></a>
 <a href="https://fb.com/qazimaaz.arshad.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="qazimaaz.arshad.3" height="30" width="40" /></a>
 <a href="https://instagram.com/qazimaazarshad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qazimaazarshad/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/qazimaazarshad?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="qazimaazarshad?hr_r=1" height="30" width="40" /></a>
+<a href="https://twitter.com/qazimaazarshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="qazimaazarshad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
