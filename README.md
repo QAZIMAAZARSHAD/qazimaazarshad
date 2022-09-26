@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="300" src="https://i.postimg.cc/0QCNQqRh/link.jpg)](https://postimg.cc/8JjGK9Cb">
+<img align="center" alt="Coding" width="100%" height="300" src="https://i.postimg.cc/3NX63dV5/Twitter.png">
 <h1 align="center">Hi 👋, I'm Qazi Maaz Arshad</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
