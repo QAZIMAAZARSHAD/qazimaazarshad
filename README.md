@@ -97,11 +97,11 @@
   <tr>
     <td>
       <!-- Repos per Language Card -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qazimaazarshad&theme=default&exclude=HTML,CSS" alt="Repos per Language Card" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qazimaazarshad&theme=default" alt="Repos per Language Card" />
     </td>
     <td>
       <!-- Most Commit Language Card -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimaazarshad&theme=default&exclude=HTML,CSS" alt="Most Commit Language Card" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimaazarshad&theme=default" alt="Most Commit Language Card" />
     </td>
     <td>
       <!-- Productive Time Card -->
