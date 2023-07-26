@@ -91,7 +91,6 @@
   </tr>
 </table>
 
-
 <!-- GitHub Profile Summary Cards -->
 <table>
   <tr>
@@ -104,8 +103,8 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimaazarshad&theme=default" alt="Most Commit Language Card" />
     </td>
     <td>
-      <!-- Productive Time Card -->
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazimaazarshad&show_icons=true&locale=en&layout=compact" alt="qazimaazarshad" />
+      <!-- Most Used Language Card -->
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazimaazarshad&show_icons=true&locale=en&layout=compact" alt="Most Used Language Card" />
     </td>
   </tr>
 </table>
