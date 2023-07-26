@@ -79,8 +79,33 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazimaazarshad&show_icons=true&locale=en&layout=compact" alt="qazimaazarshad" /></p>
+<!-- GitHub Stats and Streak Stats -->
+<table>
+  <tr>
+    <td>
+      <p><img src="https://github-readme-stats.vercel.app/api?username=qazimaazarshad&show_icons=true&locale=en" alt="qazimaazarshad" /></p>
+    </td>
+    <td>
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=qazimaazarshad&" alt="qazimaazarshad" /></p>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qazimaazarshad&show_icons=true&locale=en" alt="qazimaazarshad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qazimaazarshad&" alt="qazimaazarshad" /></p>
+<!-- GitHub Profile Summary Cards -->
+<table>
+  <tr>
+    <td>
+      <!-- Repos per Language Card -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qazimaazarshad&theme=default&exclude=HTML,CSS" alt="Repos per Language Card" />
+    </td>
+    <td>
+      <!-- Most Commit Language Card -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimaazarshad&theme=default&exclude=HTML,CSS" alt="Most Commit Language Card" />
+    </td>
+    <td>
+      <!-- Productive Time Card -->
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazimaazarshad&show_icons=true&locale=en&layout=compact" alt="qazimaazarshad" />
+    </td>
+  </tr>
+</table>
