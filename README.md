@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://qazimaazarshad.github.io/My-Portfolio/](https://qazimaazarshad.github.io/My-Portfolio/)
 
-- 💬 Ask me about **Fullstack Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **qazimaazarshad@gmail.com**
 
