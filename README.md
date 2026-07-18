@@ -81,12 +81,21 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qazimaazarshad&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=qazimaazarshad&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qazimaazarshad&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazimaazarshad&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qazimaazarshad&theme=github_dark" alt="Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=qazimaazarshad&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qazimaazarshad&theme=github_dark" alt="Top languages by repo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qazimaazarshad&theme=github_dark" alt="Most-committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qazimaazarshad&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 </p>
 
 <p align="center"><i>All of my projects live at <a href="https://qazimaazarshad.github.io/">qazimaazarshad.github.io</a> ✨</i></p>
