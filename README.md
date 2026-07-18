@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://qazimaazarshad.github.io/My-Portfolio/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/monster.svg" alt="portfolio" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://qazimaazarshad.github.io" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/monster.svg" alt="portfolio" height="30" width="30" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/qazi-maaz-arshad" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="30" /></a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gfg" height="30" width="30" /></a>&nbsp;&nbsp;
