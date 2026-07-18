@@ -20,7 +20,7 @@
 - 🚀 **Software Engineer** on the R&D MDM Informatica team at **Salesforce**, building enterprise-scale products end-to-end.
 - 🤖 Working **AI-first** — orchestrating coding agents (**Cursor**, **Anthropic Claude**) to plan, build, test & review in parallel.
 - 🧰 Full-stack across **Java · Spring Boot · React · TypeScript**, with a focus on shift-left quality and zero-regression releases.
-- 🌐 Portfolio → **[qazimaazarshad.github.io](https://qazimaazarshad.github.io/)** &nbsp;·&nbsp; older version → [My-Portfolio](https://qazimaazarshad.github.io/My-Portfolio/)
+- 🌐 Portfolio → **[qazimaazarshad.github.io](https://qazimaazarshad.github.io/)**
 - 📫 Reach me at **qazimaazarshad@gmail.com** &nbsp;·&nbsp; 📄 Résumé → **[tinyurl.com/MaazResume](https://tinyurl.com/MaazResume)**
 
 ### 🔗 Connect
@@ -82,15 +82,11 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=qazimaazarshad&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=qazimaazarshad&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=qazimaazarshad&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazimaazarshad&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qazimaazarshad&theme=onedark&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 <p align="center"><i>All of my projects live at <a href="https://qazimaazarshad.github.io/">qazimaazarshad.github.io</a> ✨</i></p>
